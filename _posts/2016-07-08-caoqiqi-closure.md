@@ -25,7 +25,7 @@ prototype
 
 ##隐式原型
 
-_proto_
+\_proto\_
 
 *<font color=red>每个对象都有一个__proto__属性，指向创建该对象的函数的prototype</font>*
 
