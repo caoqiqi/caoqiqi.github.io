@@ -18,6 +18,9 @@ comments: true
 	em{
 	color:red;
 }
+	table{
+	border:1px solid #ccc;
+}
 </style>
 ## 原型
 
