@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 其他
-date: 2012-07-21
+date: 2016-07-21
 excerpt: position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？
 tags: [position,display,margin collapse,overflow,float]
 comments: true

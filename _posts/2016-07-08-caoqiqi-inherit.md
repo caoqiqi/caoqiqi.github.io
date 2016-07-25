@@ -1,7 +1,7 @@
 ---
 layout: post
 title: js继承5种实现方式
-date: 2012-07-20
+date: 2016-07-20
 excerpt: js继承5种代码实现
 tags: [对象冒充,call(),apply(),原型链,混合方式]
 comments: true
