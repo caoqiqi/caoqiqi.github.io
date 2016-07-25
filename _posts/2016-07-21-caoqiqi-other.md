@@ -35,3 +35,8 @@ Position：absolute|fixed或float时，会改变display的设置，变为inline-
 ## 三、position、overflow的关系
 父节点设置overflow：scroll且没有设置position
 子节点的Position：static|relative|时，子节点会滚动；
+                   absolute|fixed时，子节点不会滚动
+父节点设置overflow：scroll且设置了position
+子节点的Position：static|relative|absolute时，子节点会滚动；
+                      fixed时，子节点不会滚动
+
